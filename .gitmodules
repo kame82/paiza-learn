@@ -1,0 +1,6 @@
+[submodule "paiza-learn-front"]
+	path = paiza-learn-front
+	url = git@github.com:kame82/paiza-learn-front.git
+[submodule "paiza-learn-back"]
+	path = paiza-learn-back
+	url = git@github.com:kame82/paiza-learn-back.git
